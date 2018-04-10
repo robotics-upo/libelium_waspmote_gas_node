@@ -1,0 +1,16 @@
+*********************************************
+Elapsed seconds :11 s
+Acceleration X: 74 | X angle: 4.2437663078
+Acceleration Y: -65 | Y angle: -3.7268528938
+Acceleration Z: 999 | Z angle: 87.4374542236
+Battery Level: 100 % | Battery (Volts): 4.1989998817 V
+Gas O2 concentration: 20.2455368041 Vol. % - O2 Alarm: OFF
+Gas H2S concentration: 0.4027380466 ppm - H2S Alarm: OFF
+Gas CO concentration: 13.1073122024 ppm -  CO Alarm: OFF
+Gas CH4 concentration: 0.0000000000 % LEL - CH4 Alarm: OFF
+Temperature: 26.3500003814 Celsius degrees
+RH: 29.1826171875 %
+Pressure: 101163.9062500000 Pa
+********************************************
+
+
