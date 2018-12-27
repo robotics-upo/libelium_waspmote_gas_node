@@ -3,7 +3,7 @@
 import sys
 import rospy
 import serial
-from siar_gas_sensor.msg import GasMeasure
+from libelium_waspmote_gas_node.msg import GasMeasure
 import io
 from gas_measure_parser import GasMeasureParser
 

@@ -2,7 +2,7 @@
 # license removed for brevity
 import sys
 import rospy
-from siar_gas_sensor.msg import GasMeasure
+from libelium_waspmote_gas_node.msg import GasMeasure
 
 # msg is a list of strings
 class GasMeasureParser:
@@ -14,6 +14,7 @@ class GasMeasureParser:
   
   # Gets the info and stores it in completed_info
   def parseMessage(self,str_msg):
+    print str_msg
     self.completed_info = {}
     split_msg = str_msg.split()
     for i in range(len(split_msg)-2):
